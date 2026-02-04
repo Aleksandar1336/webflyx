@@ -1,0 +1,43 @@
+[33mbd4faaa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: commit: N: Add html file
+[33m29e9c3d[m HEAD@{1}: commit: M: .gitignore
+[33m8af9aa7[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{2}: reset: moving to 8af9aa7
+[33ma9ffc39[m HEAD@{3}: commit: M: Add .gitignore
+[33m4f56c30[m HEAD@{4}: reset: moving to 4f56c30
+[33m4f56c30[m HEAD@{5}: reset: moving to 4f56c30
+[33m4f56c30[m HEAD@{6}: commit: M: Add .gitignore
+[33m8af9aa7[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{7}: pull origin main: Fast-forward
+[33m9a4e2da[m HEAD@{8}: checkout: moving from add_classics to main
+[33m9c23057[m[33m ([m[1;31morigin/add_classics[m[33m)[m HEAD@{9}: commit: L: Modify classics.csv
+[33m9a4e2da[m HEAD@{10}: checkout: moving from main to add_classics
+[33m9a4e2da[m HEAD@{11}: pull origin main: Merge made by the 'ort' strategy.
+[33mf2e10d5[m HEAD@{12}: reset: moving to f2e10d5
+[33m1d8bda0[m HEAD@{13}: pull origin main: Merge made by the 'ort' strategy.
+[33mf2e10d5[m HEAD@{14}: reset: moving to f2e10d5
+[33m14eaeac[m HEAD@{15}: pull origin main: Merge made by the 'ort' strategy.
+[33mf2e10d5[m HEAD@{16}: merge update_dune: Fast-forward
+[33m6524894[m HEAD@{17}: checkout: moving from update_dune to main
+[33mf2e10d5[m HEAD@{18}: reset: moving to f2e10d55097c97597adab19addc5afc445303abe
+[33mf2e10d5[m HEAD@{19}: reset: moving to f2e10d55097c97597adab19addc5afc445303abe
+[33m1cfbbd7[m HEAD@{20}: commit: J: Overwrite error
+[33mf2e10d5[m HEAD@{21}: commit: I: dune.md add second text
+[33me2a044d[m HEAD@{22}: commit: H: dune.md add first text
+[33m6524894[m HEAD@{23}: rebase (finish): returning to refs/heads/update_dune
+[33m6524894[m HEAD@{24}: rebase (start): checkout main
+[33m60014c1[m HEAD@{25}: checkout: moving from main to update_dune
+[33m6524894[m HEAD@{26}: checkout: moving from update_dune to main
+[33m6524894[m HEAD@{27}: checkout: moving from main to update_dune
+[33m6524894[m HEAD@{28}: merge update_titles: Fast-forward
+[33m8124533[m HEAD@{29}: checkout: moving from update_titles to main
+[33m6524894[m HEAD@{30}: commit: G: Update titles.md
+[33m8124533[m HEAD@{31}: checkout: moving from main to update_titles
+[33m8124533[m HEAD@{32}: merge add_classics: Merge made by the 'ort' strategy.
+[33md1be704[m HEAD@{33}: commit: E: update contents.md
+[33m74fc746[m HEAD@{34}: checkout: moving from add_classics to main
+[33m60014c1[m HEAD@{35}: commit: D: Add classics.csv
+[33m74fc746[m HEAD@{36}: checkout: moving from main to add_classics
+[33m74fc746[m HEAD@{37}: checkout: moving from add_classics to main
+[33m74fc746[m HEAD@{38}: checkout: moving from main to add_classics
+[33m74fc746[m HEAD@{39}: Branch: renamed refs/heads/master to refs/heads/main
+[33m74fc746[m HEAD@{41}: commit: C: add quotes
+[33m6d93f35[m HEAD@{42}: commit: B: add titles
+[33m3242240[m HEAD@{43}: commit (initial): A: add contents.md
